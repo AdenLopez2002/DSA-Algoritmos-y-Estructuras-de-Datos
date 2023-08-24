@@ -1,0 +1,1 @@
+Exposición en clase. Numeros triangulares y mergesort()
